@@ -7,5 +7,5 @@ Running with
 ==========
 
 cd Debug
-=
+
 sms-arch-replicator -c config.ini
